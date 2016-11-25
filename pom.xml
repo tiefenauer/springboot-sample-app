@@ -67,6 +67,12 @@
       <artifactId>spring-boot-starter-thymeleaf</artifactId>
     </dependency>
     <dependency>
+      <groupId>com.domingosuarez.boot</groupId>
+      <artifactId>spring-boot-starter-jade4j</artifactId>
+      <version>0.3.1</version>
+    </dependency>
+
+    <dependency>
       <groupId>org.hsqldb</groupId>
       <artifactId>hsqldb</artifactId>
     </dependency>
